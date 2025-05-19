@@ -5,6 +5,7 @@ INDICE
 4.	Interactuar con una Incidencia
 5.	Consultar Estado
 6.	Cerrar Sesión
+   
 Manual del Usuario: Sistema de Tickets (Rol Cliente)
 ¡Bienvenido! Este manual te guiará a través de las funciones básicas de nuestro sistema de tickets, diseñado para que puedas reportar problemas y realizar un seguimiento de tus incidencias de manera sencilla.
 1. Inicio de Sesión:
